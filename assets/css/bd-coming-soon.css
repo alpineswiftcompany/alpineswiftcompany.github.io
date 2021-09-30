@@ -60,15 +60,15 @@ p {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #ffffff;
-  color: #003332;
+  background-color: #003332;
+  color: #ffffff;
   margin-right: 16px;
   transition: all 0.3s ease-in-out; }
   .footer-social-links .social-link:last-child {
     margin-right: 0; }
   .footer-social-links .social-link:hover {
     text-decoration: none;
-    background-color: #003332;
-    color: #ffffff; }
+    background-color: #ffffff;
+    color: #003332; }
 
 /*# sourceMappingURL=bd-coming-soon.css.map */
